@@ -1,4 +1,6 @@
-# Srushti's AI Emotion Detection Application
+# Final Project
+
+## Srushti's AI Emotion Detection Application
 
 Course final project using IBM Watson NLP, Flask, Python packaging, automated unit tests and Pylint.
 
